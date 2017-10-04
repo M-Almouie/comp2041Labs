@@ -1,0 +1,17 @@
+Justin:
+    lyrics...
+    
+Metallica:
+    lyrics...
+    
+.
+.
+.
+.
+
+1) calculate the log probs for al words for the artists first
+then:
+    song.txt:
+        2) for each word add to the final hash for each artist
+
+3) print the largest artist prob
